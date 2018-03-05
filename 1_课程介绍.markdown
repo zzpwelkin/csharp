@@ -134,7 +134,7 @@ perl主要擅长于自然语言的处理，也即是文本语言的处理，ruby
 + 网易云课堂上的[C#编程基础](http://study.163.com/course/courseMain.htm?courseId=215013)
 这个网站上的视屏，老师讲的很详细，也很到位，建议上课之前提前预习。
 
-+ w3c上的C#基本语法教程
++ w3c上的[C#基本语法教程](https://www.w3cschool.cn/csharp/csharp-intro.html)
 适合有一定编程经验的人员，在学习的过程中可以作为很好的参考教程。
 
 
